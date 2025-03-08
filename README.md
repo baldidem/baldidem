@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-Software developer with expertise in building robust applications using C#, .NET Core, and Entity Framework Core. Skilled in managing data with MSSQL and proficient in front-end technologies like HTML, CSS, and JavaScript to create dynamic, user-friendly solutions. Passionate about coding, problem-solving, and continuously learning in the ever-evolving tech landscape.
+Software developer skilled in building robust applications using C#, .NET Core, and Entity Framework Core. Experienced in managing data with MSSQL and capable with front-end technologies like HTML, CSS, and JavaScript to create dynamic, user-friendly solutions. Passionate about coding, problem-solving, and continuously learning in the ever-evolving tech landscape.
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [edidembal@gmail.com](mailto:edidembal@gmail.com)
